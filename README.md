@@ -535,12 +535,12 @@ Promise表示一个异步操作的最终结果。与Promise最主要的交互方
 
 这里给出一个gif演示，便于大家学习。
 
-![2222](images/2222.gif)
+![2222](2222.gif)
 
 
 如下图所示，标准的Promise只有5个核心API，所以还是比较容易学的。
 
-![](images/promise-methods.png)
+![](promise-methods.png)
 
 先掌握着5个API，然后再熟悉bluebird，q这样的Promise库，它们做了大量的扩展而已，但核心本质还是这些的。
 
